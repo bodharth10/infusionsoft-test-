@@ -1,0 +1,131 @@
+class SingletonTest
+  def size
+    print "25\n"
+  end
+end
+
+
+def test2.size
+  print "10\n"
+end
+
+https://app-sandbox.maropost.com/accounts/{{account}}/journeys/{{journey}}/trigger/{{trigger}}.json?auth_token={{auth_token}}&email={{email}}
+ 
+
+
+Hello Manny, 
+
+We are using two methods(scopes) for groups : 
+
+1) user_managed_groups : we are using this scope to list the number of associated groups to fb profile . 
+
+2) publish_to_groups : we are using this scope for posting content/campaign on user facebook groups .
+
+
+Thanks,
+Bodharth 
+
+
+
+
+
+
+
+
+
+
+Thank you very much for the invitation to interview for the  Ruby on Rails Developer position, I appreciate the opportunity and I look forward to meet the Fidor Team.
+
+
+ 
+
+
+I have tried to access the Webex link to book an appointment but it was not opening, So shall we have the interview on  5th July 6:30 PM Berlin time, please let me know your availability for the same.
+
+
+
+
+Today I worked on : 
+
+1) Research on Subscribe webhooks and changes to action as per suggestion . 
+
+2) Worked on facebook group permission issue . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login as follows:
+1. https://app.maropost.com
+    login ID:  mannyju@gmail.com
+    password:  Many456$%
+2. Follow these instructions to access the Social module and connect to a Facebook Group:
+     https://maropostmarketingcloud.com/#connecting-to-a-social-media-account
+It is important to note that ONLY THE FACEBOOK GROUP OWNER HAS ACCESS RIGHTS TO CONNECT TO THE FACEBOOK GROUP.
+3. Follow these instructions to create social content to be posted to the Facebook Group:  
+     https://maropostmarketingcloud.com/#create-social-media-content
+4. Follow these instructions to view responses to a content posted to the Facebook Group.
+     https://maropostmarketingcloud.com/#social-content-library
+
+Maropost Markting Cloud is a cross-channel marketing automation platform.  Our clients are typically B2C Marketers.  They use our platform for automated marketing messaging via email, SMS, mobile messaging, and social content.
+
+Many of our clients are Social Media Marketers who are responsible to manage the content posted to their company's Facebook Pages and Facebook Groups.  We need approval to access the Facebook Groups API in order to allow our clients to:
+1) Establish the connection between Maropost Marketing Cloud and the Facebook Group that they manage, and 
+2) To post content created within Maropost Marketing Cloud to their Facebook Group so that group members may see the informative content.
+
+I have uploaded a short video showing your how our platform works and the reason why we need your approval to access the Facebook Groups API.
+
+If you have any questions, you can always reach out to me at manny@maropost.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are using two methods(scopes) for groups : 
+
+1) groups_access_member_info : we are using this scope to list the number of associated groups to fb profile . 
+
+2) publish_to_groups : we are using this scope for posting content/campaign on user facebook groups .
+
+
+
+
+
+
+
+
+
+
+
+
+
+

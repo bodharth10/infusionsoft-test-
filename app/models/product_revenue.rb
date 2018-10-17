@@ -1,0 +1,2 @@
+class ProductRevenue < ApplicationRecord
+end
